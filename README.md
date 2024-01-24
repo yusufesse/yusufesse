@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yusufesse
 - 👀 I’m interested in front-end and back-end web development
-- 🌱 I’m currently learning React Redux and Firebase
-- :handshake: I’m am currently seeking a software developer role
+- 🌱 I’m am proficient in React & Angular frontend framework
 - 📫 How to reach me yusufesse99@gmail.com
 
 <!---
