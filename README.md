@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusufesse
-- 👀 I have great passion in building modern and appealing web applications.
-- 🌱 I’m am proficient in React & Angular as well as other styling and testing libraries.
-- 📫 How to reach me yusufesse99@gmail.com
+- 🌱 I have great passion in building sleek, modern web applications
+- 👀 www.linkedin.com/in/yusuf-esse
+- 📫 yusufesse99@gmail.com
 - ✨ https://yusuf-codes.vercel.app/ 
 
 <!---
