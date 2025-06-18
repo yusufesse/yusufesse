@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusufesse
 - 🌱 I have great passion in building sleek, modern web applications
 - 👀 www.linkedin.com/in/yusuf-esse
-- 📫 yusufesse99@gmail.com
+- 📫 yusufesse10@outlook.com
 - ✨ https://yusuf-codes.vercel.app/ 
 
 <!---
