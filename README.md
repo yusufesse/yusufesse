@@ -2,7 +2,7 @@
 - 🌱 I have great passion in building sleek, modern web applications
 - 👀 www.linkedin.com/in/yusuf-esse
 - 📫 yusufesse10@outlook.com
-- ✨ https://yusuf-codes.vercel.app/ 
+- ✨ https://yusufcodes.vercel.app/ 
 
 <!---
 yusufesse/yusufesse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
